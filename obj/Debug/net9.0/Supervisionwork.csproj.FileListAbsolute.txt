@@ -1,0 +1,15 @@
+/Users/halidsaraliev/Desktop/Supervisionwork/bin/Debug/net9.0/Supervisionwork
+/Users/halidsaraliev/Desktop/Supervisionwork/bin/Debug/net9.0/Supervisionwork.deps.json
+/Users/halidsaraliev/Desktop/Supervisionwork/bin/Debug/net9.0/Supervisionwork.runtimeconfig.json
+/Users/halidsaraliev/Desktop/Supervisionwork/bin/Debug/net9.0/Supervisionwork.dll
+/Users/halidsaraliev/Desktop/Supervisionwork/bin/Debug/net9.0/Supervisionwork.pdb
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.AssemblyInfoInputs.cache
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.AssemblyInfo.cs
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.csproj.CoreCompileInputs.cache
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.sourcelink.json
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.dll
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/refint/Supervisionwork.dll
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.pdb
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/Supervisionwork.genruntimeconfig.cache
+/Users/halidsaraliev/Desktop/Supervisionwork/obj/Debug/net9.0/ref/Supervisionwork.dll
