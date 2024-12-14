@@ -11,4 +11,8 @@ foreach (var str in inputArray)
     }
 }
 
-
+Console.WriteLine("\nМассив строк, длина которых <= 3:");
+for (int i = 0; i < resultCount; i++)
+    {
+    Console.WriteLine(resultArray[i]);
+    }
